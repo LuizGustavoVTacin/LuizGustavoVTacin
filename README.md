@@ -7,6 +7,12 @@
   </div>
   <br>
   <div align="center">
+    <img src="images/linux.svg" width="100px">
+    <img src="images/github.svg" width="100px">
+    <img src="images/markdown.svg" width="100px">
+  </div>
+  <br>
+  <div align="center">
     <img src="images/html5.svg" width="100px">
     <img src="images/css3.svg" width="100px">
     <img src="images/javascript.svg" width="100px">
