@@ -18,7 +18,7 @@
     <img src="images/html5.svg" width="100px">
     <img src="images/css3.svg" width="100px">
     <img src="images/mysql.svg" width="100px">
-    <img src="images/postgresql.svg" width="100px">
+    <img src="images/postgresql.png" width="100px">
   </div>
   <br>
   <div align="center">
